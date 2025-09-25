@@ -1,6 +1,6 @@
 # Portfolio 2
 Quantitative Backtesting Model
-# Pricing Model Strategy (Python 3.13)
+# Pricing Model Strategy (Python 3.13 or above )
 
 This project implements **financial derivatives pricing models** in Python:
 - Black–Scholes (Still in progressing)
